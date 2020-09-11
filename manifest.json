@@ -1,0 +1,11 @@
+{
+    "name": "Shankar_M",
+    "short_name": "Shankar_M - profile",
+    "description": "Shankar_M - profile",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
